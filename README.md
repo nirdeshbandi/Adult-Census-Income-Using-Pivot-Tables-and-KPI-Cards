@@ -19,3 +19,7 @@
   for average income by education, drag education to Rows and average income in values.
 3.Representing above in pivot charts using kpi cards.
 4.Making the advance dashboard in new sheet by making changes to the above charts.
+
+Snap of a Dashboard
+
+![image](https://github.com/nirdeshbandi/Adult-Census-Income-Using-Pivot-Tables-and-KPI-Cards/blob/8a55e79d58e5cc95ef244b07186ea1d0a032ce81/Adult_census_income_screenshot.jpg)
